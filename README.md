@@ -6,7 +6,7 @@
 [![Instagram Badge](https://img.shields.io/badge/-Instagram-C13584?style=flat-square&labelColor=C13584&logo=instagram&logoColor=white&link=https://www.instagram.com/u53r.n07.f0und/)](https://www.instagram.com/u53r.n07.f0und/)
 
 
-# Hello, stranger! :wave:
+<!-- # Hello, stranger! :wave:
 
 - I'm a brazilian guy with green skin and a long orange hair who likes technology and black coffee. 
 - Obviously I can electrocute people too, like <a href = "https://en.wikipedia.org/wiki/Blanka" target="_blank">Blanka</a>. ⚡⚡⚡
@@ -14,4 +14,11 @@
 - Enthusiast in DSLs design, implementation and use. 
 - Last but not least a supporter of FLOSS movement, especially the projects with concepts || ideals || contents revolving around the combat of social misery and everyday alienation. 
 
-### That said, have a nice day! :blush::ok_hand:
+### That said, have a nice day! :blush::ok_hand: -->
+
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=JonnathanRiquelmo&count_private=true&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+
+![Profile views](https://gpvc.arturio.dev/JonnathanRiquelmo)
+
+<!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JonnathanRiquelmo&&langs_count=10&layout=compact)](https://github.com/anuraghazra/github-readme-stats) -->
