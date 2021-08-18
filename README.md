@@ -1,9 +1,9 @@
 ## :metal: :headphones: :man_technologist:
 
-[![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/JonnathanRiquelmo)](https://github.com/JonnathanRiquelmo)
+<!-- [![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/JonnathanRiquelmo)](https://github.com/JonnathanRiquelmo) -->
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/jonnathan-riquelmo/)](https://www.linkedin.com/in/jonnathan-riquelmo/)
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:jonnathan.riquelmo@gmail.com)](mailto:jonnathan.riquelmo@gmail.com)
-[![Instagram Badge](https://img.shields.io/badge/-Instagram-C13584?style=flat-square&labelColor=C13584&logo=instagram&logoColor=white&link=https://www.instagram.com/u53r.n07.f0und/)](https://www.instagram.com/u53r.n07.f0und/)
+<!-- [![Instagram Badge](https://img.shields.io/badge/-Instagram-C13584?style=flat-square&labelColor=C13584&logo=instagram&logoColor=white&link=https://www.instagram.com/u53r.n07.f0und/)](https://www.instagram.com/u53r.n07.f0und/) -->
 
 
 <!-- # Hello, stranger! :wave:
