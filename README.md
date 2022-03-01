@@ -1,8 +1,8 @@
-## :metal: :headphones: :man_technologist:
+<!-- ## :metal: :headphones: :man_technologist: -->
 
 <!-- [![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/JonnathanRiquelmo)](https://github.com/JonnathanRiquelmo) -->
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/jonnathan-riquelmo/)](https://www.linkedin.com/in/jonnathan-riquelmo/)
-[![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:jonnathan.riquelmo@gmail.com)](mailto:jonnathan.riquelmo@gmail.com)
+<!-- [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/jonnathan-riquelmo/)](https://www.linkedin.com/in/jonnathan-riquelmo/) -->
+<!-- [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:jonnathan.riquelmo@gmail.com)](mailto:jonnathan.riquelmo@gmail.com) -->
 <!-- [![Instagram Badge](https://img.shields.io/badge/-Instagram-C13584?style=flat-square&labelColor=C13584&logo=instagram&logoColor=white&link=https://www.instagram.com/u53r.n07.f0und/)](https://www.instagram.com/u53r.n07.f0und/) -->
 
 
@@ -19,6 +19,6 @@
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=JonnathanRiquelmo&count_private=true&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 
-![Profile views](https://gpvc.arturio.dev/JonnathanRiquelmo)
+<!-- ![Profile views](https://gpvc.arturio.dev/JonnathanRiquelmo) -->
 
 <!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JonnathanRiquelmo&&langs_count=10&layout=compact)](https://github.com/anuraghazra/github-readme-stats) -->
