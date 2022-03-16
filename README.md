@@ -17,8 +17,10 @@
 ### That said, have a nice day! :blush::ok_hand: -->
 
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=JonnathanRiquelmo&count_private=true&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=JonnathanRiquelmo&hide=stars&theme=dracula&count_private=true&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+</br>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JonnathanRiquelmo&hide=css,html&layout=compact&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
+</br>
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=JonnathanRiquelmo&theme=dark)](https://git.io/streak-stats)
 
-<!-- ![Profile views](https://gpvc.arturio.dev/JonnathanRiquelmo) -->
-
-<!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JonnathanRiquelmo&&langs_count=10&layout=compact)](https://github.com/anuraghazra/github-readme-stats) -->
+![Profile views](https://gpvc.arturio.dev/JonnathanRiquelmo)
