@@ -18,11 +18,12 @@
 
 <div align="center">
 
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=JonnathanRiquelmo&theme=dracula)](https://git.io/streak-stats)
+</br>
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=JonnathanRiquelmo&hide=stars&theme=dracula&count_private=true&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 </br>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JonnathanRiquelmo&hide=css,html&layout=compact&theme=dracula&langs_count=10)](https://github.com/anuraghazra/github-readme-stats)
-</br>
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=JonnathanRiquelmo&theme=dracula)](https://git.io/streak-stats)
+
 
 <!-- ![Profile views](https://gpvc.arturio.dev/JonnathanRiquelmo) -->
 
