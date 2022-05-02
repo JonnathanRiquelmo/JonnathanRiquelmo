@@ -9,12 +9,16 @@
 ## Hello, stranger! :wave:
 
 - I'm a brazilian guy with green skin and a long orange hair who likes technology and black coffee. :coffee:
-- Obviously I can electrocute people too, like <a href = "https://en.wikipedia.org/wiki/Blanka" target="_blank">Blanka</a>. ⚡⚡⚡
-- I have a Bachelor's degree in Information Systems (2014) and Software Engineering (2019). :woozy_face:
-- As if that wasn't enough, I recently obtained a Master's degree in Software Engineering (2022). :face_with_spiral_eyes:
-- Member of the research group <a href = "http://lesse.com.br/site/" target="_blank">LESSE</a>. 
-- I'm still passionate about the design, implementation and use of DSLs. 
-- Last but not least a supporter of FLOSS movement. 
+    - Obviously I can electrocute people too, like <a href = "https://en.wikipedia.org/wiki/Blanka" target="_blank">Blanka</a>. ⚡⚡⚡ <br><br>
+- I have a Bachelor's degree in Information Systems (2014) and Software Engineering (2019). :woozy_face: <br>
+    - As if that wasn't enough, I recently obtained a Master's degree in Software Engineering (2022). :face_with_spiral_eyes:
+- Member of the research group called _Laboratory of Empirical Studies in Software Engineering_ (LESSE - Unipampa). 
+    - Passionate about the design, implementation and use of DSLs. <br><br>
+- I like Djent and Melodeath bands. 
+    - I consider In Flames' Colony and Clayman to be two of the best albums ever made.
+- Ironically, i'm a metalhead who secretly listens to a lot of Hip hop from time to time. 
+    - Don't judge me. 🥸 <br><br>
+- Last but not least, supporter of the FLOSS movement. 
 
 ### That said, have a nice day! :blush::ok_hand:
 
