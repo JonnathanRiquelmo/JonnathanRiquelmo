@@ -6,24 +6,36 @@
 <!-- [![Instagram Badge](https://img.shields.io/badge/-Instagram-C13584?style=flat-square&labelColor=C13584&logo=instagram&logoColor=white&link=https://www.instagram.com/u53r.n07.f0und/)](https://www.instagram.com/u53r.n07.f0und/) -->
 
 
-<!-- # Hello, stranger! :wave:
+## Hello, stranger! :wave:
 
-- I'm a brazilian guy with green skin and a long orange hair who likes technology and black coffee. 
+- I'm a brazilian guy with green skin and a long orange hair who likes technology and black coffee. :coffee:
 - Obviously I can electrocute people too, like <a href = "https://en.wikipedia.org/wiki/Blanka" target="_blank">Blanka</a>. ⚡⚡⚡
-- Having bachelor's degrees in Information Systems (2014) and Software Engineering (2019), nowadays I'm a master's student in Software Engineering at <a href = "https://unipampa.edu.br/" target="_blank">Federal University of Pampa</a> and member of the research group <a href = "http://lesse.com.br/site/" target="_blank">LESSE</a>. 
-- Enthusiast in DSLs design, implementation and use. 
-- Last but not least a supporter of FLOSS movement, especially the projects with concepts || ideals || contents revolving around the combat of social misery and everyday alienation. 
+- I have a Bachelor's degree in Information Systems (2014) and Software Engineering (2019). :woozy_face:
+- As if that wasn't enough, I recently obtained a Master's degree in Software Engineering (2022). :face_with_spiral_eyes:
+- Member of the research group <a href = "http://lesse.com.br/site/" target="_blank">LESSE</a>. 
+- I'm still passionate about the design, implementation and use of DSLs. 
+- Last but not least a supporter of FLOSS movement. 
 
-### That said, have a nice day! :blush::ok_hand: -->
+### That said, have a nice day! :blush::ok_hand:
+
+***
 
 <div align="center">
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=JonnathanRiquelmo&theme=dracula)](https://git.io/streak-stats)
+<!-- [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=JonnathanRiquelmo&theme=dracula)](https://git.io/streak-stats)
 </br>
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=JonnathanRiquelmo&hide=stars&theme=dracula&count_private=true&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 </br>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JonnathanRiquelmo&hide=css,html&layout=compact&theme=dracula&langs_count=10)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JonnathanRiquelmo&hide=css,html&layout=compact&theme=dracula&langs_count=10)](https://github.com/anuraghazra/github-readme-stats) -->
 
+  <div align="center"> 
+    <img height="150em" alt="Geral-https://github.com/anuraghazra/github-readme-stats" src="https://github-readme-stats.vercel.app/api?username=JonnathanRiquelmo&hide=stars&theme=dracula&count_private=true&show_icons=true" />
+    <img height="150em" alt="Top Langs-https://github.com/anuraghazra/github-readme-stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JonnathanRiquelmo&hide=css,html&layout=compact&theme=dracula&langs_count=10" />
+  </div>
+
+  <div align="center"> 
+    <img height="150em" alt="Streak-https://git.io/streak-stats" src="https://github-readme-streak-stats.herokuapp.com/?user=JonnathanRiquelmo&theme=dracula" />
+  </div>
 
 <!-- ![Profile views](https://gpvc.arturio.dev/JonnathanRiquelmo) -->
 
