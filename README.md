@@ -18,7 +18,7 @@
     - I consider In Flames' Colony and Clayman to be two of the best albums ever made.
 - Ironically, i'm a metalhead who secretly listens to a lot of Hip hop from time to time. 
     - Don't judge me. 🥸 <br><br>
-- Last but not least, supporter of the FLOSS movement. 
+- Last but not least, supporter of the <a href = "https://www.gnu.org/philosophy/floss-and-foss.en.html" target="_blank">FLOSS</a> movement.
 
 ### That said, have a nice day! :blush::ok_hand:
 
