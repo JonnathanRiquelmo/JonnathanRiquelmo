@@ -6,9 +6,9 @@
 <!-- [![Instagram Badge](https://img.shields.io/badge/-Instagram-C13584?style=flat-square&labelColor=C13584&logo=instagram&logoColor=white&link=https://www.instagram.com/u53r.n07.f0und/)](https://www.instagram.com/u53r.n07.f0und/) -->
 
 
-## Hello, stranger! :wave:
+<!-- ## Hello, stranger! :wave: -->
 
-- I'm a brazilian guy with green skin and a long orange hair who likes technology and black coffee. :coffee:
+<!-- - I'm a brazilian guy with green skin and a long orange hair who likes technology and black coffee. :coffee:
     - Obviously I can electrocute people too, like <a href = "https://en.wikipedia.org/wiki/Blanka" target="_blank">Blanka</a>. ⚡⚡⚡ <br><br>
 - I have a Bachelor's degree in Information Systems (2014) and Software Engineering (2019). :woozy_face: <br>
     - As if that wasn't enough, I recently obtained a Master's degree in Software Engineering (2022). :face_with_spiral_eyes:
@@ -20,9 +20,9 @@
     - Don't judge me. 🥸 <br><br>
 - Last but not least, supporter of the <a href = "https://www.gnu.org/philosophy/floss-and-foss.en.html" target="_blank">FLOSS</a> movement.
 
-### That said, have a nice day! :blush::ok_hand:
+### That said, have a nice day! :blush::ok_hand: -->
 
-***
+<!-- *** -->
 
 <div align="center">
 
