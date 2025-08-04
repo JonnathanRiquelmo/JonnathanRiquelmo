@@ -9,7 +9,7 @@
 
 ## 🔧 Tecnologias & Ferramentas
 
-![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python) ![Java](https://img.shields.io/badge/-Java-05122A?style=flat&logo=java) ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript) ![React](https://img.shields.io/badge/-React-05122A?style=flat&logo=react) ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-05122A?style=flat&logo=postgresql) ![Docker](https://img.shields.io/badge/-Docker-05122A?style=flat&logo=docker) ![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)
+![Java](https://img.shields.io/badge/-Java-05122A?style=flat&logo=java) ![Appium](https://img.shields.io/badge/-Appium-05122A?style=flat&logo=appium) ![Selenium](https://img.shields.io/badge/-Selenium-05122A?style=flat&logo=selenium) ![Jenkins](https://img.shields.io/badge/-Jenkins-05122A?style=flat&logo=jenkins) ![Oracle Database](https://img.shields.io/badge/-Oracle%20Database-05122A?style=flat&logo=oracle) ![IBM Db2](https://img.shields.io/badge/-IBM%20Db2-05122A?style=flat&logo=ibm-db2) ![jQuery](https://img.shields.io/badge/-jQuery-05122A?style=flat&logo=jquery)
 
 ## 📈 Estatísticas do GitHub
 
