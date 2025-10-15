@@ -15,7 +15,7 @@
 
 <div align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=JonnathanRiquelmo&show_icons=true&theme=dracula&count_private=true&hide_border=true" />
-  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=JonnathanRiquelmo&theme=dracula&hide_border=true" />
+  <img height="180em" src="https://streak-stats.demolab.com?user=JonnathanRiquelmo&theme=dracula&date_format=j%2Fn%5B%2FY%5D&mode=weekly" />
 </div>
 
 ## 🌱 Atualmente aprendendo
