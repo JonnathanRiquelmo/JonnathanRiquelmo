@@ -19,9 +19,9 @@
 
 ## 🌱 Atualmente aprendendo
 - Design Patterns
-- JUnit 5
+- JUnit 6
 - Selenium 4+
-- Appium 2+
+- Appium 3
 
 ## 💬 Vamos conversar
 - 🔗 [LinkedIn](https://www.linkedin.com/in/jonnathan-riquelmo/)
