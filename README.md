@@ -14,6 +14,7 @@
 ## 📈 Estatísticas do GitHub
 
 <div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=JonnathanRiquelmo&radius=16&theme=nord&area=true&order=5&hide_title=true" height="230" alt="activity-graph graph"  />
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=JonnathanRiquelmo&show_icons=true&theme=dracula&count_private=true&hide_border=true" />
 </div>
 
